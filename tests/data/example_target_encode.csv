@@ -1,0 +1,13 @@
+cv_split,y,x1
+1,1,Pirates
+1,0,Pirates
+1,1,Cubs
+1,1,Cubs
+1,1,Reds
+1,0,Reds
+2,0,Pirates
+2,0,Pirates
+2,0,Cubs
+2,1,Cubs
+2,0,Reds
+2,0,Reds

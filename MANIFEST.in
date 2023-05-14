@@ -1,0 +1,4 @@
+include ./targetencode/VERSION
+include requirements.txt
+include README.md
+recursive-include ./targetencode/*
